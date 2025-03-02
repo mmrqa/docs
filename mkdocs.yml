@@ -21,7 +21,7 @@ nav:
   - Check Feasability:
     - Authentification Guide: 'checkfeasability/#authentification-guide'
     - API Usage Guide: 'checkfeasability/#api-usage-guide'
-    - Checkliste: checkfeasability/#feasability-checklist'
+    - Checkliste: 'checkfeasability/#feasability-checklist'
   - Develop Integration:
     - Development Guide: 'developintegration/#development-guide'
     - Legal Guide: 'developintegration/#legal-guide'
