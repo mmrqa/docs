@@ -6,7 +6,7 @@ theme:
     - navigation.instant
     - search.highlight
     - search.smart
-    - navigation.expand
+    - navigation.sections
 nav:
   - Home: 'index.md'
   - Quickstart: 'quickstart.md'
