@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Heureka Docs
 site_url: https://mmrqa.github.io/docs/
 theme:
   name: material
@@ -7,10 +7,8 @@ theme:
     - search.highlight
     - search.smart
     - navigation.expand
-
-
 nav:
-   - Home: 'index.md'
+  - Home: 'index.md'
   - Quickstart: 'quickstart.md'
   - Getting Started:
     - Getting Started: 'getstarted.md'
@@ -24,4 +22,3 @@ nav:
     - API Reference: 'apireference.md'
     - Fhir Reference: 'fhirreference.md'
     - FAQ: 'faq.md'
-
