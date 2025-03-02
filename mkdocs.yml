@@ -1,1 +1,27 @@
 site_name: My Docs
+site_url: https://mmrqa.github.io/docs/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - search.highlight
+    - search.smart
+    - navigation.expand
+
+
+nav:
+   - Home: 'index.md'
+  - Quickstart: 'quickstart.md'
+  - Getting Started:
+    - Getting Started: 'getstarted.md'
+  - Explore:
+    - Check Feasability: 'checkfeasability.md'
+  - Develop:
+    - Develop Integration: 'developintegration.md'
+  - Deploy:
+    - Deploy Pilot: 'deploypilot.md'
+  - References:
+    - API Reference: 'apireference.md'
+    - Fhir Reference: 'fhirreference.md'
+    - FAQ: 'faq.md'
+
